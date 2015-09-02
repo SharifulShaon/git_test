@@ -1,0 +1,197 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: #EEEEEE;;
+}
+
+.fullbody{
+ width: 600px;
+ height: 630px;
+ margin: 5px auto;
+ background: white;
+ border: medium;
+
+}
+
+.head{
+
+	width: 0 auto;
+	height: 120px;
+	
+	margin: 5px;
+	padding-top: 5px;
+}
+
+.logo{
+
+	width: 150px;
+	height:115px;
+	background: #EEEEEE;
+	padding-top: 5px;
+	float: left;
+	
+	
+}
+
+.logo img{
+	margin-left: 20px;
+}
+
+
+.sidelog{
+
+ width: auto;
+ height: 120px;
+ background: green;
+
+}
+
+
+.siteTitle{
+
+	font-size:17px; 
+    color:#95e17d;
+    margin:0px; 
+    margin-left:6px; 
+
+
+}
+
+.second_title{
+    font-size:20px; 
+    color:white;
+    margin-top: 10px;
+
+}
+
+.firstb{
+
+	border: 2px solid black;
+	width: 420px;
+	height: 230px;
+	margin-left: 100px;
+	margin-top: 20px;
+	
+}
+
+.formc{
+	margin-top: 25px;
+}
+
+
+#exam{
+
+	float: left;
+	text-align: center;
+	margin-left: 70px;
+	font: bold 13px tahoma;
+
+}
+
+select { border:1px solid #333; width:200px; height:30px;background-color: #EEEEEE;}
+input { border:1px solid #333; width:200px; height:30px; background-color: #EEEEEE;}
+
+#ex{
+	margin-left: 20px;
+}
+
+#ye{
+	margin-left: 65px;
+}
+
+#bo{
+	margin-left: 58px;
+}
+
+#ro{
+	margin-left: 72px;
+}
+
+
+#space{
+	margin-left: 25px;
+}
+
+#space1{
+	margin-left: 25px;
+}
+
+#forme{
+
+}
+
+
+
+.secndb{
+
+	border: 1px solid black;
+	width: 420px;
+	height: 150px;
+	margin-top: 15px;
+	margin-left: 100px;
+}
+
+
+.foot{
+
+	border: 1px solid #EEEEEE;
+	border-top-color: green;
+	border-top-width: 5px;
+	width: auto;
+	height: 55px;
+	margin-top: 15px;
+	margin-left: 5px;
+	margin-right: 5px;
+
+	background: #EEEEEE;
+
+}
+
+#foottm{
+
+	font-size: 13.5px;
+	margin-top: 20px;
+	margin-left: 5px;
+	float: left;
+}
+
+
+#in{
+	float: right;
+	margin-top: 0px;
+
+}
+p>img{
+	width: 50px;
+	height: 50px;
+}
+
+
+#secndp{
+
+	text-align: center;
+	color: red;
+	font-size: 17px;
+	text-indent: inherit;
+	margin-top: 18px;
+	margin-left: 25px;
+	margin-right: 25px;
+
+}
+
+#link>a{
+		text-decoration: none;
+	     margin-left: 130px;
+}
+
+#link>a:hover{
+
+	color: red;
+}
+
+.subres{
+	margin-left: 300px;
+}
